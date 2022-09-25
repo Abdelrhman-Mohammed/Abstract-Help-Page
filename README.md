@@ -1,6 +1,6 @@
 # Abstract-Help-Page
 
-Abstract home page challenge from [Frontend Practice](https://www.frontendpractice.com/)
+Abstract help page challenge from [Frontend Practice](https://www.frontendpractice.com/)
 
 ## Desktop screenshot
 
