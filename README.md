@@ -4,8 +4,8 @@ Abstract home page challenge from [Frontend Practice](https://www.frontendpracti
 
 ## Desktop screenshot
 
-![Desktop Screenshot](md-asssets/desktop-screenshot.jpeg)
+![Desktop Screenshot](md-assets/desktop-screenshot.jpeg)
 
 ## Mobile screenshot
 
-![Mobile Screenshot](md-asssets/mobile-screenshot.jpeg)
+![Mobile Screenshot](md-assets/mobile-screenshot.jpeg)
